@@ -1,0 +1,1 @@
+select t.ID, t.NAME, t.COUNTRYCODE, t.DISTRICT, t.POPULATION from CITY t;
